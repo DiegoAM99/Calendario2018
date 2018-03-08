@@ -44,11 +44,12 @@ public class Calendario2018 {
     }
     public static void main(String[] args) {
          Calendario2018 ejercicio1 = new Calendario2018();
-         System.out.println(ejercicio1.ImprimeMes(i, n);
+         System.out.println(ejercicio1.ImprimeMes(0, 31));
         for (int i = 0; i <= 7; i++) {
            ejercicio1.ImprimeMes(i, i);
             System.out.println();
             System.out.println();
     }
     
+    }
 }
